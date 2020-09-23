@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1D789F20-8885-4590-A978-C11D86328EF2}|">
+  <MonoDevelop.Ide.ItemProperties.Secret-Agent PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Secret-Agent/Agent.cs">
+    <Files>
+      <File FileName="Secret-Agent/Agent.cs" Line="19" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Secret-Agent" expanded="True">
+            <Node name="Secret-Agent" expanded="True">
+              <Node name="Agent.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
